@@ -1,3 +1,3 @@
-Hello! Here is a repository of all my personal projects.
 
-The Demo.py file is my AI Generation Detection Project in Python.
+The Demo.py file is my AI Generation Detection Project in Python that classifies code samples based on diﬃculty and detect AI-generated content.
+
